@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566473797363",
+    "project_id": "learning-database-a0a94",
+    "storage_bucket": "learning-database-a0a94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566473797363:android:12de135a717b03ed44d186",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGF3ZQUEVARpuObLcHHMM0SXEOcGtoV-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
